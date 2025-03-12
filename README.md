@@ -228,7 +228,7 @@
 
 ### 6-1. 시스템 프로세스 아키텍처
 
-![순서도.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/173fe265-9590-4d2d-b063-723fca51a817/83ef059c-3d97-47e5-95da-ecd085e12b4d/%EC%88%9C%EC%84%9C%EB%8F%84.png)
+![Image](https://github.com/user-attachments/assets/244cd583-b3b9-4dca-8cd7-26fa22d9a298)
 
 ## **7. 문제 해결 및 개선 사항**
 
@@ -334,8 +334,7 @@
 
 ### **8-4. 비용 효율적인 AI 시스템 구축**
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/173fe265-9590-4d2d-b063-723fca51a817/dc0f4f1c-ba24-4213-924f-ebabfbdc3fb4/image.png)
-
+![Image](https://github.com/user-attachments/assets/1c4132d8-0657-4582-bebe-98160d609096)
 - **로컬 임베딩 모델(`jhgan/ko-sbert-nli`) 적용**하여 **API 사용  절감**
 - OpenAI API 호출을 최소화하여 **운영 비용 절감 및 성능 유지**
 
